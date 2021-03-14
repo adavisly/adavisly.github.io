@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans';
+}
+
+.company {
+    background-color: #dcdcdc;
+    display: flex;
+	justify-content: space-between;
+}
+
+.nav {
+    background-color: #777777;
+}
+

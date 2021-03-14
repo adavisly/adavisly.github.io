@@ -1,0 +1,170 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+}
+
+.dark {
+    background-color: rgb(124, 124, 124);
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.light {
+    background-color: rgb(228, 228, 228);
+    margin-top: 20px;
+    margin-left: 20px;
+    color:  rgb(124, 124, 124);
+}
+
+header {
+    display: flex;
+    height: 170px;
+    margin-bottom: 20px;
+}
+
+hr {
+    margin-left: 20px;
+    width: 1183px;
+}
+
+.number {
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    font-size: 30pt;
+}
+
+.class1 {
+    width: 230px;
+}
+
+.class2 {
+    width: 415px;
+}
+
+.class3 {
+    width: 500px;
+}
+.class4 {
+    
+    width: 200px;
+    height: 350px;
+    padding-left: 5px;
+    margin-bottom: 300px;
+}
+
+.class4 ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.title {
+    font-weight: 600;
+}
+
+.class7 {
+    width: 200px;
+    height: 150px;
+}
+
+.right-blocks {
+    position: absolute;
+    left: 225px;
+    top: 200px;
+}
+
+.desc {
+    margin-left: 25px;
+}
+
+.class5 ul {
+    list-style-type: square;
+    margin-left: 20px;
+    margin-right: 30px;
+}
+
+.classes6 {
+    display: flex;
+}
+
+.class6 {
+    width: 176px;
+    height: 200px;
+}
+
+.classes8-9 {
+    display: flex;
+}
+
+.class8 {
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    width: 460px;
+    height: 143px;
+}
+
+footer {
+    display: flex;
+}
+
+.class10 {
+    width: 381px;
+    height: 240px;
+}
+
+.class11 {
+    width: 381px;
+    height: 240px;
+}
+
+.footer12 {
+    display: flex;
+    flex-direction: column;
+}
+
+.class12 {
+    height: 110px;
+    width: 383px;
+}
+
+.class10 ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+.points {
+    position: relative;
+    left: 150px;
+    top: -64%;
+}
+
+.class11 ul {
+    list-style-type: square;
+    margin: 0;
+}
+
+.hr2 {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

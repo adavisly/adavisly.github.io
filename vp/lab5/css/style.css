@@ -1,0 +1,224 @@
+body {
+    font-family: 'MyriadPro', sans-serif;
+    line-height: 1.8;
+}
+
+header {
+    background-image: url(img/daniel.png);
+    background-size: cover;
+    height: 700px;
+    color: white;
+}
+
+.navbar-brand {
+    margin-top: 30px;
+    color: white;
+    font-size: 14pt;
+    transform: scale(0.95, 1);
+}
+
+.nav-link {
+    margin-top: 30px;
+    color: white;
+    font-size: 14pt;
+    transform: scale(0.95, 1);
+}
+
+.active {
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #1abc9c;
+}
+
+.introduce {
+    font-family: 'Rokkitt', serif;
+    transform: scale(0.95, 1);
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 0;
+    font-size: 60pt;
+}
+
+.header-line {
+    border-top: 2px solid #ffffff !important;
+    width: 850px !important;
+    margin-top: 0px !important;
+}
+
+.subtitle {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 22pt;
+}
+
+.go-ahead {
+    margin-top: 202px;
+    font-family: 'Rokkitt', serif;
+    text-transform: uppercase;
+    background-color: #1abc9c;
+    border-radius: 0;
+    color: white;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background-clip: padding-box;
+    border: 5px solid #1abc9c83;
+    width: 300px;
+    height: 75px;
+    font-size: 22pt;
+}
+  
+.raphael {
+    margin-top: 150px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30pt;
+    color: #1abc9c;
+    transform: scale(0.95, 1);
+}
+
+.about p {
+    text-align: center;
+    color: #95a5a6;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+    font-size: 16pt;
+    margin-bottom: 50px;
+}
+
+.skills {
+    display: flex;
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+h4 {
+    color: #1abc9c;
+    font-weight: 600;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    transform: scale(0.95, 1);
+}
+
+.sketching p {
+    text-align: justify;
+    margin-right: 60px;
+    margin-left: 60px;
+    font-size: 14pt;
+    color: #95a5a6;
+    transform: scale(0.95, 1);
+}
+
+.line {
+    background-color: rgb(228, 232, 232);
+    width: 1250px;
+    height: 1px;
+  }
+
+.portfolio {
+    margin-top: 45px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portfolio-title {
+    font-family: 'Rokkitt', serif;
+    text-align: center;
+    font-size: 30pt;
+    font-weight: 500;
+}
+
+.w-100 {
+    width: 500px;
+    height: 450px;
+}
+
+.last-rule {
+    margin-top: 50px;
+}
+
+input {
+    font-family: 'Rokkitt', serif;
+    background-color: #e4e8e8;
+    color: #494949;
+    border: none;
+    font-size: 18pt;
+}
+
+.form-name {
+    width: 500px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    margin-right: 15px;
+}
+
+.email {
+    margin-left: 15px;
+}
+
+.name-email {
+    display: flex;
+}
+
+.help {
+    margin-top: 30px;
+}
+
+.form-help {
+    width: 1030px;
+    height: 300px;
+    margin-top: 30px;
+}
+
+footer {
+    background-color: #1abc9c;
+    margin-top: 100px;
+}
+
+.twitter-icon {
+    position: absolute;
+    left: 400px;
+    top: 2730px;
+}
+
+.dribble-icon {
+    position: absolute;
+    left: 700px;
+    top: 2730px;
+}
+
+.facebook-icon {
+    position: absolute;
+    left: 1000px;
+    top: 2730px;
+}
+
+footer p {
+    color: white;
+    font-family: 'Rokkitt', serif;
+    font-size: 14pt;
+    margin-top: 100px;
+}
+
+.author {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-bottom: 30px;
+    background-color: #1abc9c;
+}
+
+::placeholder {
+    color: rgb(182, 182, 182);
+    font-family: 'Rokkitt', serif;
+  }

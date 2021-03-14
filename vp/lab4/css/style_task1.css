@@ -1,0 +1,29 @@
+h1 {
+    padding: 50px;
+    margin-right: 500px;
+    margin-bottom: 40px;
+    background-color: rgba(178, 168, 233, 0.651);
+    border-width: 10px;
+    border-color: rgb(51, 85, 179);
+    border-style: solid;
+}
+
+p {
+    margin-right: 600px;
+    margin-left: 100px;
+    padding: 30px;
+    background-color: rgb(238, 237, 188);
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
+}
+
+a {
+    padding: 65px;
+    background-color: rgb(163, 255, 194);
+    border-width: 5px;
+    border-color: rgb(0, 156, 26);
+    border-style: solid;
+}
+
+
