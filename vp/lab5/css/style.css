@@ -179,27 +179,35 @@ input {
     margin-top: 30px;
 }
 
+.send {
+    margin-top: 50px;
+}
+
 footer {
     background-color: #1abc9c;
     margin-top: 100px;
 }
 
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 400px;
+    margin-right: 500px;
+}
+
 .twitter-icon {
     position: absolute;
-    left: 400px;
-    top: 2730px;
+    top: 2850px;
 }
 
 .dribble-icon {
     position: absolute;
-    left: 700px;
-    top: 2730px;
+    top: 2850px;
 }
 
 .facebook-icon {
     position: absolute;
-    left: 1000px;
-    top: 2730px;
+    top: 2850px;
 }
 
 footer p {
