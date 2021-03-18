@@ -192,22 +192,23 @@ footer {
     display: flex;
     justify-content: space-between;
     margin-left: 400px;
-    margin-right: 500px;
+    margin-right: 400px;
+    
 }
 
 .twitter-icon {
-    position: absolute;
-    top: 2850px;
+    position: relative;
+    top: -40%;
 }
 
 .dribble-icon {
-    position: absolute;
-    top: 2850px;
+    position: relative;
+    top: -40%;
 }
 
 .facebook-icon {
-    position: absolute;
-    top: 2850px;
+    position: relative;
+    top: -40%;
 }
 
 footer p {
