@@ -1,0 +1,62 @@
+.buttons {
+    display: flex;
+}
+
+button {
+    margin-top: 7px;
+    margin-right: 20px;
+}
+
+.text {
+    font-size: 16pt;
+    padding: 10px;
+    margin-right: 100px;
+}
+
+.background-text {
+    background-color: rgb(229, 229, 153);
+}
+
+.border-text {
+    border-color: rgb(163, 76, 15);
+    border-width: 3px;
+    border-style: solid;
+}
+
+.large-font {
+    font-size: 20pt;
+}
+
+.task2 {
+    display: flex;
+}
+
+.small-imgs {
+    display: flex;
+    flex-direction: column;
+}
+
+.small-img {
+    height: 150px;
+    width: 110px;
+    padding: 5px;
+}
+
+.small-img:hover {
+    padding: 0;
+    border-color: rgb(179, 179, 179);
+    border-width: 5px;
+    border-style: solid;
+}
+
+.large-img {
+    display: none;
+    position: absolute;
+    padding: 5px;
+    height: 480px;
+    width: 350px;
+}
+
+.active {
+    display: block;
+}

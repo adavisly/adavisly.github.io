@@ -1,0 +1,57 @@
+/*
+body {
+    background-color: rgb(234, 247, 250);
+}
+*/
+.image {
+    height: 370px;
+    width: 300px;
+}
+
+.firstLine {
+    display: flex;
+}
+
+.secondLine {
+    display: flex;
+}
+
+.thirdLine {
+    display: flex;
+}
+
+.book {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+    border-color:rgb(143, 143, 143);
+    border-width: 10px;
+    border-style: solid;
+    background-color: rgb(219, 218, 180);
+}
+
+.bookName {
+    text-align: center;
+}
+
+.inStock {
+    background: rgb(245, 125, 33);
+    color: #fff;
+    border-radius: 2px;
+    position: absolute;
+    left: 5px;
+    top: 10px;
+    font-size: 18px;
+    padding: 3px 5px;
+}
+
+.notInStock {
+    background: rgb(100, 100, 100);
+    color: #fff;
+    border-radius: 2px;
+    position: absolute;
+    left: 5px;
+    top: 10px;
+    font-size: 18px;
+    padding: 3px 5px;
+}
